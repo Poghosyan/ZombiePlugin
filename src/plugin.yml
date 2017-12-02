@@ -1,0 +1,4 @@
+name: zombieKillerPlugin
+version: 1
+author: Mher Poghosyan
+main: com.zombieKillerPlugin.ZombieKiller
